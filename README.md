@@ -3,8 +3,8 @@
 I'm Alexis Hodiesne, french full stack developper since 2021.
 
 I'm based at Bordeaux, France and currently working at Sully Group.
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png)
-
+![alt text](https://github.com/AlexisHodiesne/AlexisHodiesne/blob/main/github.png)
+https://github.com/AlexisHodiesne/AlexisHodiesne/edit/main/README.md
 
 
 ---
