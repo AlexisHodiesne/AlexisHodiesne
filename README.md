@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm Alexis Hodiesne, french full stack developper since 2021.
+I'm Alexis Hodiesne, french full stack developer since 2021.
 
 I'm based at Bordeaux, France and currently working at Sully Group.
 ![alt text](https://github.com/AlexisHodiesne/AlexisHodiesne/blob/main/github.png)
