@@ -4,9 +4,9 @@ I'm Alexis Hodiesne, a French full-stack developer since 2021.
 
 I have been doing some Arma 3 and GTA V RP server development and mapping for 3 years between 2016 and 2019.
 
-I'm based in Bordeaux, France, and currently working at Sully Group.
-
 You can navigate through my [organization](https://github.com/hodiesne-lab) to see some projects 🚀
+
+I'm based in Bordeaux, France, and currently working at Sully Group.
 
 ---
 
