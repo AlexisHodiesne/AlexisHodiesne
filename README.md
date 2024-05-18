@@ -1,14 +1,15 @@
 ## Hello there 👋
 
-I'm Alexis Hodiesne, french full stack developer since 2021.
+I'm Alexis Hodiesne, a French full-stack developer since 2021.
 
-I'm based at Bordeaux, France and currently working at Sully Group.
-![alt text](https://github.com/AlexisHodiesne/AlexisHodiesne/blob/main/github.png)
-https://github.com/AlexisHodiesne/AlexisHodiesne/edit/main/README.md
+I have been doing some Arma 3 and GTA V RP server development and mapping for 3 years between 2016 and 2019.
 
+I'm based in Bordeaux, France, and currently working at Sully Group.
+
+You can navigate through my [organization](https://github.com/hodiesne-lab) to see some projects 🚀
 
 ---
 
-[![Les Stats GitHub de AlexisHodiesne](https://github-readme-stats.vercel.app/api?username=alexishodiesne&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Les Stats GitHub de AlexisHodiesne](https://github-readme-stats.vercel.app/api?username=alexishodiesne&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexishodiesne&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
