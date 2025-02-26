@@ -1,7 +1,7 @@
 # Hi there, I'm Alexis 👋
 
 ## 🚀 About Me
-French Viking from Normandy, currently based in Bordeaux, France.
+French Viking from Normandy, currently based in Bordeaux, France.<br>
 I discovered development while creating servers for Arma 3, where I handled both mapping and scripting. This hands-on experience allowed me to build and manage projects, leading me to pursue a professional career as a full-stack developer in 2021.
 
 ## 💼 Experience
