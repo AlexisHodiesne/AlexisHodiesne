@@ -23,10 +23,10 @@ I have had the opportunity to work with various organizations, including:
 - **Bordeaux Métropole**
 - **Enedis**
 
-Explore my projects on my [GitHub Organization](https://github.com/....) 🚀
+Explore my projects on my [GitHub Organization](https://github.com/hodiesne-lab) 🚀
 
 ## 📫 Let's Connect 
-- **[LinkedIn](https://www.linkedin.com/in/alexishodiesne)**
-- **[Send me a mail](hodiesnealexis@gmail.com)**
+- **[LinkedIn](https://www.linkedin.com/in/alexis-hodiesne)**
+- **Mail : hodiesnealexis@gmail.com**
 
 Feel free to reach out for collaboration or just to say hi! 😊
