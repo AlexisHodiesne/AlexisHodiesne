@@ -9,7 +9,7 @@ I discovered development while creating servers for Arma 3, where I handled both
 - **Arma 3 & GTA V RP Server Developer, Mapper & Project Lead** (2016 - 2019)
 
 ## 🔧 Tech Stack
-- **Frontend:** React, Next.js, HTML, CSS, JavaScript, TypeScript
+- **Frontend:** React, Next.js, HTML, CSS, JavaScript, TypeScript, Tailwind CSS
 - **Backend:** Node.js, PHP, Symfony, C# 
 - **Database:** MySQL, PostgreSQL, Sql Server
 - **DevOps:** Docker, Nginx, Apache
@@ -17,9 +17,10 @@ I discovered development while creating servers for Arma 3, where I handled both
 
 ## 🏢 Clients & Projects
 I have had the opportunity to work with various organizations, including:
-- **Bordeaux Métropole**
-- **DIR Centre-Est**
 - **Région Bourgogne Franche-Comté**
+- **Ministère de l'éducation**
+- **DIR Centre-Est**
+- **Bordeaux Métropole**
 - **Enedis**
 
 Explore my projects on my [GitHub Organization](https://github.com/....) 🚀
