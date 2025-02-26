@@ -15,6 +15,14 @@ I discovered development while creating servers for Arma 3, where I handled both
 - **DevOps:** Docker, Nginx, Apache
 - **Other:** Git, Linux, API development
 
+## 📈 My stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alexishodiesne&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat"> 
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexishodiesne&card_width=320" /> 
+</a>
+
 ## 🏢 Clients & Projects
 I have had the opportunity to work with various organizations, including:
 - **Région Bourgogne Franche-Comté**
