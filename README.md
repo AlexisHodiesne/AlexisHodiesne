@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Alexis 👋
 
 ## 🚀 About Me
 French Viking from Normandy, currently based in Bordeaux, France.
