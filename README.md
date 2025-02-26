@@ -1,15 +1,31 @@
-## Hello there 👋
+# Hi there, I'm [Your Name] 👋
 
-I'm Alexis Hodiesne, a French full-stack developer since 2021.
+## 🚀 About Me
+French Viking from Normandy, currently based in Bordeaux, France.
+I discovered development while creating servers for Arma 3, where I handled both mapping and scripting. This hands-on experience allowed me to build and manage projects, leading me to pursue a professional career as a full-stack developer in 2021.
 
-I have been doing some Arma 3 and GTA V RP server development and mapping for 3 years between 2016 and 2019.
+## 💼 Experience
+- **Full-Stack Developer** (since 2021)
+- **Arma 3 & GTA V RP Server Developer, Mapper & Project Lead** (2016 - 2019)
 
-You can navigate through my [organization](https://github.com/hodiesne-lab) to see some projects 🚀
+## 🔧 Tech Stack
+- **Frontend:** React, Next.js, HTML, CSS, JavaScript, TypeScript
+- **Backend:** Node.js, PHP, Symfony, C# 
+- **Database:** MySQL, PostgreSQL, Sql Server
+- **DevOps:** Docker, Nginx, Apache
+- **Other:** Git, Linux, API development
 
-I'm based in Bordeaux, France, and currently working at Sully Group.
+## 🏢 Clients & Projects
+I have had the opportunity to work with various organizations, including:
+- **Bordeaux Métropole**
+- **DIR Centre-Est**
+- **Région Bourgogne Franche-Comté**
+- **Enedis**
 
----
+Explore my projects on my [GitHub Organization](https://github.com/....) 🚀
 
-[![Les Stats GitHub de AlexisHodiesne](https://github-readme-stats.vercel.app/api?username=alexishodiesne&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+## 📫 Let's Connect 
+- **[LinkedIn](https://www.linkedin.com/in/alexishodiesne)**
+- **[Send me a mail](hodiesnealexis@gmail.com)**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexishodiesne&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Feel free to reach out for collaboration or just to say hi! 😊
