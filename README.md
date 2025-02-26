@@ -31,7 +31,7 @@ I have had the opportunity to work with various organizations, including:
 - **Bordeaux Métropole**
 - **Enedis**
 
-Explore my projects on my [GitHub Organization](https://github.com/hodiesne-lab) 🚀
+Explore my projects on my [GitHub Organization](https://github.com/hodi-lab) 🚀
 
 ## 📫 Let's Connect 
 - **[LinkedIn](https://www.linkedin.com/in/alexis-hodiesne)**
